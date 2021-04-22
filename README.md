@@ -1,2 +1,3 @@
 # IDS-LR-MARS
-IDS Land Registy: The Mars
+**INTERNATIONAL DEPARTMENT OF SPACE**  
+Land Registration Service for The Mars
